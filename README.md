@@ -3,4 +3,4 @@
 - I also design and develop games in Unity and RPG Maker.
 - I like playiing RPG games.
 - I like reading books and hiking.
-- I generally works in js, Vue js, Angular and Rails.
+- I generally work in js, Vue js, Angular and Rails.
