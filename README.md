@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there! I'm **Nabin Saru(Jenex)**, a web developer with a penchant for crafting seamless digital experiences. My coding journey spans AngularJS, Vue.js, Ruby on Rails, Python, and C#, turning intricate ideas into elegant code.
+### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+I'm **Nabin Saru(Jenex)**, a web developer with a penchant for crafting seamless digital experiences. My coding journey spans AngularJS, Vue.js, Ruby on Rails, Python, and C#, turning intricate ideas into elegant code.
 
 🎮 Beyond the pixels, I'm an indie game enthusiast who revels in RPG worlds and hunts for gems in the gaming cosmos. When I'm not coding, I'm exploring hiking trails, drawing inspiration from the great outdoors.
 
