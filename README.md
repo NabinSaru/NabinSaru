@@ -1,6 +1,11 @@
-# Hey It's me Jenex! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- I like doing arts, digital art, pixel artist, photoshop and adobe illustrator user.
-- I also design and develop games in Unity and RPG Maker.
-- I like playiing RPG games.
-- I like reading books and hiking.
-- I generally work in js, Vue js, Angular and Rails.
+👋 Hey there! I'm Nabin Saru, a web developer with a penchant for crafting seamless digital experiences. My coding journey spans AngularJS, Vue.js, Ruby on Rails, Python, and C#, turning intricate ideas into elegant code.
+
+🎮 Beyond the pixels, I'm an indie game enthusiast who revels in RPG worlds and hunts for gems in the gaming cosmos. When I'm not coding, I'm exploring hiking trails, drawing inspiration from the great outdoors.
+
+📚 A book lover at heart, you'll often find me engrossed in tales that transport me to different dimensions. And when the world inside my head demands to be shared, I take up the pen as an avid writer.
+
+🎨 In the realm of creativity, I sketch, delve into digital art, and craft pixel wonders. With Photoshop and Adobe Illustrator, I paint my visions into reality.
+
+🌟 Join me on this exhilarating journey of coding, creating, adventuring, and storytelling. Let's build, design, explore, read, write, and innovate together!
+
+📫 Reach out at [jenexthegreat@gmail.com] or connect on LinkedIn: [https://linkedin.com/in/nabin-saru-75a95a200]
